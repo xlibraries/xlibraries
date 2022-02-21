@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xlibraries
+- 👋 Hi, I’m @xlib
 - 👀 I’m interested in Game Development(Game Design and Development)
 - 🌱 I’m currently learning Game Design
 - 💞️ I’m looking to collaborate on developing game
