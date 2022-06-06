@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Xlib
-- 👀 I’m interested in Game Development(Game Design and Development)
-- 🌱 I’m currently improving my Game Programming and DSA knowledge
+- 🌱 I’m currently exploring different tech stacks and speciallyfocusing on .NET framework
 - 📫 How to reach me aman9893089064@gmail.com
 
 <!---
