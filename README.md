@@ -8,10 +8,6 @@ Welcome to my GitHub profile! Here, you'll find a collection of my open-source p
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=xlibraries&show_icons=true&theme=dark)](https://github.com/xlibraries)
 
-## 📊 Contribution Graph
-
-[![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=xlibraries&theme=github)
-
 ## 📫 Let's Connect
 
 I'm always interested in connecting with fellow developers and exploring new opportunities. Feel free to reach out to me through the following channels:
