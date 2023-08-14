@@ -35,4 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlibraries&show_icons=true&locale=en" alt="xlibraries" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlibraries&" alt="xlibraries" /></p>
+
 Thank you for visiting my GitHub profile! Have a great day! 😄
